@@ -82,5 +82,5 @@ After completing this project:
 
 ## 👨‍💻 Author
 
-**Jatin Vish**  
+**Jatin Vishwakarma**  
 Aspiring Data Scientist | Python Developer
